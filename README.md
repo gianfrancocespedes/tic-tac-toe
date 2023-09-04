@@ -1,8 +1,19 @@
-# React + Vite
+<div align="center" >
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tic Tac Toe
 
-Currently, two official plugins are available:
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Juego de Tic Tac Toe o Tres en Raya hecho con React.
+
+Funcionalidades: 
+- Muestra el ganador o si hay empate
+- Reiniciar partida
+- Guardado automático de partida en Local Storage
+
+Demo: **[Tic tac toe](https://gianfrancocespedes.github.io/tic-tac-toe)**
+
+<div align="center" >
+<img alt="Tic Tac Toe Game" src="https://raw.githubusercontent.com/gianfrancocespedes/tic-tac-toe/main/public/tic-tac-toe.png" width="300" />
+</div>
+
