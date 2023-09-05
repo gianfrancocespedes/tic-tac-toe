@@ -11,7 +11,7 @@ Funcionalidades:
 - Reiniciar partida
 - Guardado automático de partida en Local Storage
 
-Demo: **[Tic tac toe](https://gianfrancocespedes.github.io/tic-tac-toe)**
+Demo: **[Tic Tac Toe](https://gianfrancocespedes.github.io/tic-tac-toe)**
 
 <div align="center" >
 <img alt="Tic Tac Toe Game" src="https://raw.githubusercontent.com/gianfrancocespedes/tic-tac-toe/main/public/tic-tac-toe.png" width="300" />
