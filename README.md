@@ -7,9 +7,11 @@
 Juego de Tic Tac Toe o Tres en Raya hecho con React.
 
 Funcionalidades: 
-- Muestra el ganador o si hay empate
+- Mostrar el ganador o si hay empate
 - Reiniciar partida
-- Guardado automático de partida en Local Storage
+- Guardar automáticamente la partida en Local Storage
+- Elegir símbolo
+- Jugar contra la IA y elejir quién inicia
 
 Demo: **[Tic Tac Toe](https://gianfrancocespedes.github.io/tic-tac-toe)**
 
