@@ -7,7 +7,9 @@ export function Board ({ board, updateBoard }) {
                 board.map((elem, index) => {
                     return(
                         <Square key={index} index={index} updateBoard={updateBoard}>
-                            {elem}
+                            {elem ?  (
+                                <div className="content-in">{elem}</div>
+                            ): null}
                         </Square>
                     )
                 })

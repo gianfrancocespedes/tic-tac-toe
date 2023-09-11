@@ -1,6 +1,16 @@
-export const TURNS = {
+export const SYMBOL = {
     X: '❌',
     O: '⚪'
+}
+
+export const MODE = {
+    TWO_PLAYERS : '👨‍🤝‍👨',
+    VS_IA       : '🤖'
+}
+
+export const FIRST_TURN = {
+    ME : '👤',
+    IA : '🤖'
 }
 
 export const WINNER_COMBOS = [
@@ -13,13 +23,3 @@ export const WINNER_COMBOS = [
     [0, 4, 8],
     [2, 4, 6]
 ]
-
-export const MODE = {
-    TWO_PLAYERS : '👨‍🤝‍👨',
-    VS_IA       : '🤖'
-}
-
-export const FIRST_TURN = {
-    ME : '👤',
-    IA : '🤖'
-}
